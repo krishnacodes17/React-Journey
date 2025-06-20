@@ -1,0 +1,1 @@
+ React (ya kisi bhi frontend framework) me crossorigin ka use hota hai jab aap kisi external resource (jaise image, script, ya font) ko apne app me use karte ho, aur wo resource kisi doosri domain se load ho raha ho. Ye web security concept CORS (Cross-Origin Resource Sharing) ke under aata hai.
