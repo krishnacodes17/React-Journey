@@ -1,4 +1,4 @@
-# Hooked 
+ # Hooked 
 
 - brfore we started our code first we need to make seprate folder which is SRC to keep a component folder inside src folder we create a components folde to  keep all the components inside it
 - now we keep our componets seprate  like Header for we make seprate file Header.js and inside it we write our code 
