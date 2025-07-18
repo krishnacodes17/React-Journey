@@ -1,1 +1,1 @@
-when we seaech  any thing inside i=our search box that time every letter we type in text box its re-render hole components every time
+when we seaech  any thing inside our search box that time every letter we type in text box its re-render hole components every time

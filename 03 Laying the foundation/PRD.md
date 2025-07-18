@@ -31,7 +31,7 @@
 
 
 ## react component
-- component end  its function
+- component and  its function
 - there are two tyoes of component 
 -   - class based component  =>> this older method 
 -   - functional component   =>> this current industies used now days   => a function which is return some piece of jsx is called functional components

@@ -8,15 +8,6 @@ const heading = React.createElement(
 
 
 
-
-
-
-
-
-
-
-
-
 //  here we create a root and inside root we rander our heading
 const root =  ReactDOM.createRoot(document.getElementById("root"))
 root.render(heading); 
